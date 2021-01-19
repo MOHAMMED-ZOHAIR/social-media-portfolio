@@ -169,7 +169,7 @@ h4 {
         margin: 15px 10px;
     }
     .card-title-large {
-        transform: translateX(-5%);
+        transform: translateX(-15%);
     }
     .card-description {
         display: inline-block;
