@@ -16,6 +16,7 @@ html {
     margin: 5% auto 0 auto;
     border: 3px solid rgb(22, 22, 22);
     border-radius: 5px;
+    background-color: gray;
 }
 .profile:hover {
     box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2);
@@ -24,7 +25,6 @@ html {
     padding: 4px 16px;
     margin: 0;
     text-align: center;
-    background-color: gray;
 }
 h4 {
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
