@@ -77,7 +77,7 @@ h4 {
     font-size: 2em;
 }
 .card:hover .card-title-large {
-    transform: translateX(-15%);
+    transform: translateX(-10%);
 }
 /* Watsapp */
 .card.watsapp:hover {
