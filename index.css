@@ -79,6 +79,9 @@ h4 {
 .card:hover .card-title-large {
     transform: translateX(0);
 }
+.g-link {
+    color: rgb(29, 29, 245);
+}
 /* Watsapp */
 .card.watsapp:hover {
     background-color: rgb(25, 231, 25);
